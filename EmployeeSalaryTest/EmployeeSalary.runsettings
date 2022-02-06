@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter Name="GOOD_COMPANY_NAME" value ="Good Company LLC" />
+		<Parameter Name="GOOD_EMPLOYEE_FULLNAME" value ="JackJane Doe Jr." />
+		<Parameter Name="EMPTY_COMPANY_NAME" value ="" />
+
+	</TestRunParameters>
+</RunSettings>
